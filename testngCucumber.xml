@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" >
+ 
+  <test  name="TestCucumber" >
+    <classes>
+      <class name="CucumberOption.TestRunner"/>
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,8 @@
+17:00:27.080 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+17:00:27.140 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 4c:bb:58:ff:fe:c7:ba:69 (auto-detected)
+17:00:27.226 [AsyncHttpClient-3-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+17:00:27.229 [AsyncHttpClient-3-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+17:00:27.229 [AsyncHttpClient-3-1] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@efd2a8f
+17:00:27.283 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+17:00:27.283 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+17:00:27.283 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16

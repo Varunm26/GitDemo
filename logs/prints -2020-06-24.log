@@ -1,0 +1,12 @@
+23:42:41.811 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+23:42:41.814 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+23:42:41.814 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+23:42:44.034 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x9d2fb0655399f8b0
+23:42:44.078 [main] INFO  resources.Base - VAlidateTiltle-Test-Browser is initialized
+23:42:47.870 [main] INFO  resources.Base - VAlidateTiltle-Test-Browser open Url
+23:43:33.572 [main] ERROR resources.Base - HomeTest-Home Page Initialize error
+23:43:33.573 [main] INFO  resources.Base - HomeTest-Home Page Initialize
+23:44:09.945 [main] FATAL resources.Base - HomeTest-restricteduser
+23:44:44.333 [main] ERROR resources.Base - HomeTest-Home Page Initialize error
+23:44:44.333 [main] INFO  resources.Base - HomeTest-Home Page Initialize
+23:45:40.889 [main] FATAL resources.Base - HomeTest-NONrestricteduser

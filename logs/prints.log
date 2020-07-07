@@ -1,0 +1,4 @@
+17:00:27.284 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+17:00:30.527 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xa221d2af3ac68628
+17:00:42.549 [AsyncHttpClient-3-3] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+17:00:55.788 [AsyncHttpClient-3-6] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
